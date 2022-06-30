@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959454804848",
+    "project_id": "quran-challenge-92b5e",
+    "storage_bucket": "quran-challenge-92b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959454804848:android:1773983f9e9a930de86db5",
+        "android_client_info": {
+          "package_name": "com.quran.challenge.quran_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959454804848-bbg6227c8f2gl8qgg4jha7ffe4d1d49r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quran.challenge.quran_challenge",
+            "certificate_hash": "59ef88eec4a4ad11b2e1252971ed632fbdd98dd4"
+          }
+        },
+        {
+          "client_id": "959454804848-go8pq6q9d2vjfd0t8kpe7lh1d5gb968n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUARDqFTQfW2TSioLQV62JapXw07vrip8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959454804848-go8pq6q9d2vjfd0t8kpe7lh1d5gb968n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
